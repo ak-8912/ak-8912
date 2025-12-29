@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Akhil — a Frontend Developer with nearly 3 years of experience specializing in React. I build clean, scalable, and user-friendly web applications with a strong focus on reusable components, performance, and modern UI practices. I enjoy solving UI challenges and turning ideas into reliable frontend solutions.<br><br>Tech: React, TypeScript, JavaScript, Tailwind CSS, MUI, ShadCN, Supabase
+👋 Hi, I’m Akhil — a Frontend Developer with nearly 3 years of experience specializing in React. I build clean, scalable, and user-friendly web applications with a strong focus on reusable components, performance, and modern UI practices. I enjoy solving UI challenges and turning ideas into reliable frontend solutions.
 
 
 ## 🌐 Socials:
